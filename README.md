@@ -38,6 +38,12 @@ Ensure that error handling mechanisms are in place to address any issues encount
 Implement appropriate logging functionalities to facilitate troubleshooting and monitoring of the pipeline activities.
 We are automating the pipeline execution by scheduling it to run at regular intervals using tools like cron jobs or Apache Airflow.
 
+Data Model :
+
+![Data Model](https://github.com/aakriti-911/GCP-Data-Engineering-Project/assets/165250095/e0c06a5b-a49b-474d-8ae9-183acbf8c02c)
+
+
+
 This overview outlines the project's objectives, requirements, and usage guidelines. For detailed implementation specifics, refer to the relevant sections and consult with the project contributors.
 
 
