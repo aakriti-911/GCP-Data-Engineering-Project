@@ -44,6 +44,6 @@ Data Model :
 
 
 
-This overview outlines the project's objectives, requirements, and usage guidelines. For detailed implementation specifics, refer to the relevant sections and consult with the project contributors.
+This overview outlines the project's objectives, requirements, and usage guidelines.
 
 
